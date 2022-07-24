@@ -6,8 +6,8 @@
 
 Current projects:
  1) Learning to navigate Git and update GitHub via terminal commands
- 2) Creating DP-900 exam repository with study material 
- 3) Completing 150 PY challenges from "Python By Example" book
+ 2) Document my Python progress in the 100_days_of_python repository
+ 3) Working on the Data Engineer DP-203 Microsoft Certification material
 
 <!---
 antoniaandreou/antoniaandreou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
